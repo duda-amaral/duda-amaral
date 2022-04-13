@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning CSS, HTML and Javascript 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i love music, movies and books!
-
 <div align="center">
   <a href="https://github.com/duda-amaral">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=duda-amaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
