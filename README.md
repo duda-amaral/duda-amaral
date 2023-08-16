@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-<a href="https://github.com/duda-amaral">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=duda-amaral" />
-</a>
-<a href="https://github.com/duda-amaral">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duda-amaral&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center">
+  <a href="https://github.com/duda-amaral">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=duda-amaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="393em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duda-amaral&layout=compact&langs_count=7&theme=radical"/>
+</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
