@@ -15,6 +15,6 @@
   <img align="right" alt="duda-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/be29f926a00a80a3414ff095a59d9b2b/803551463703bce3-97/s540x810/1e3641d1f5a43462843343cfb250c22fa9c02442.gifv?width=676&height=676">
 </div>
 
- [![Spotify](https://novatorem-duda-amaral.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/fcksadgirl)
+ <br>[![Spotify](https://novatorem-duda-amaral.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/fcksadgirl)
   
 ##
