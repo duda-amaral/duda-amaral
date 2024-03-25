@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/ma-eduarda-amaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
- ### Main skills:
+ ### Main skills 👩🏽‍💻
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -27,12 +27,11 @@
 
 
 
-### Studying in this moment:
+### Studying in this moment 📚
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
-       
-&nbsp;<div align="left" height="40" width="40">
-  [![Spotify](https://novatorem-duda-amaral.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/fcksadgirl)
-</div>
+
+### Spotify Playing 🎶
+[<img src="https://novatorem-duda-amaral.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="350"/>](https://open.spotify.com/user/fcksadgirl)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
