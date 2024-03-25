@@ -23,6 +23,7 @@
 ![SPRINGBOOT](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=spring-boot)&nbsp;
 ![POSTMAN](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=Postman&labelolor=0D1117)&nbsp;
 ![MYSQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![POSTGRES](https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 
 
 
