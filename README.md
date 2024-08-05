@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-tau-three-87.vercel.app/api?username=duda-amaral&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Maria Eduarda github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-tau-three-87.vercel.app/api/top-langs?username=duda-amaral&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-dudaamarals-projects.vercel.app/api?username=duda-amaral&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Maria Eduarda github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-dudaamarals-projects.vercel.app/api/top-langs?username=duda-amaral&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 
